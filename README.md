@@ -47,4 +47,6 @@ Welcome to the Ferns and Petals Sales Analysis project! This deep dive into FNPâ
 
 ðŸ”Ž User-Friendly Pivot Tables & Charts for easy exploration.
 
+![Screenshot 2025-01-30 115954](https://github.com/user-attachments/assets/c6e7aa18-bdd1-4fd8-92eb-aa5109bf6655)
+
 
